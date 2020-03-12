@@ -1,5 +1,5 @@
 # BangloreAssignement
-Completed my Task 
+Completed my Task </br>
 index.php to add data to database
 table.php to fetch data from php
 ajaxinsert.php to insert using ajax
